@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\media_alunos\media_alunos\bin\Debug\media_alunos.exe.config
+C:\Users\suellen.acosta2\Documents\C#\media_alunos\media_alunos\bin\Debug\media_alunos.exe
+C:\Users\suellen.acosta2\Documents\C#\media_alunos\media_alunos\bin\Debug\media_alunos.pdb
+C:\Users\suellen.acosta2\Documents\C#\media_alunos\media_alunos\obj\Debug\media_alunos.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\media_alunos\media_alunos\obj\Debug\media_alunos.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\media_alunos\media_alunos\obj\Debug\media_alunos.exe
+C:\Users\suellen.acosta2\Documents\C#\media_alunos\media_alunos\obj\Debug\media_alunos.pdb

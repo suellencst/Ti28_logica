@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suellen.acosta2\\Documents\\C#\\Media\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2288A22-AA7B-4F5C-A31F-B3852B4BA121}|Media\\Media.vcxproj|C:\\Users\\suellen.acosta2\\Documents\\C#\\Media\\Media\\Media.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2288A22-AA7B-4F5C-A31F-B3852B4BA121}|Media\\Media.vcxproj|solutionrelative:Media\\Media.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Media.cpp",
+              "DocumentMoniker": "C:\\Users\\suellen.acosta2\\Documents\\C#\\Media\\Media\\Media.cpp",
+              "RelativeDocumentMoniker": "Media\\Media.cpp",
+              "ToolTip": "C:\\Users\\suellen.acosta2\\Documents\\C#\\Media\\Media\\Media.cpp",
+              "RelativeToolTip": "Media\\Media.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-10T13:10:33.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

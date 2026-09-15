@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suellen.acosta2\\Documents\\C#\\antecessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{410EF37A-7CFA-429B-B597-8C147D2B2AE5}|antecessor\\antecessor.csproj|c:\\users\\suellen.acosta2\\documents\\c#\\antecessor\\antecessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410EF37A-7CFA-429B-B597-8C147D2B2AE5}|antecessor\\antecessor.csproj|solutionrelative:antecessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suellen.acosta2\\Documents\\C#\\antecessor\\antecessor\\Program.cs",
+              "RelativeDocumentMoniker": "antecessor\\Program.cs",
+              "ToolTip": "C:\\Users\\suellen.acosta2\\Documents\\C#\\antecessor\\antecessor\\Program.cs*",
+              "RelativeToolTip": "antecessor\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:46:46.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

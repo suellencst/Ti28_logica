@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suellen.acosta2\\Documents\\C#\\media_alunos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFBBB9F-7F81-4D11-B9D7-C73A4B725355}|media_alunos\\media_alunos.csproj|c:\\users\\suellen.acosta2\\documents\\c#\\media_alunos\\media_alunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFBBB9F-7F81-4D11-B9D7-C73A4B725355}|media_alunos\\media_alunos.csproj|solutionrelative:media_alunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suellen.acosta2\\Documents\\C#\\media_alunos\\media_alunos\\Program.cs",
+              "RelativeDocumentMoniker": "media_alunos\\Program.cs",
+              "ToolTip": "C:\\Users\\suellen.acosta2\\Documents\\C#\\media_alunos\\media_alunos\\Program.cs*",
+              "RelativeToolTip": "media_alunos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:13:10.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\antecessor\antecessor\bin\Debug\antecessor.exe.config
+C:\Users\suellen.acosta2\Documents\C#\antecessor\antecessor\bin\Debug\antecessor.exe
+C:\Users\suellen.acosta2\Documents\C#\antecessor\antecessor\bin\Debug\antecessor.pdb
+C:\Users\suellen.acosta2\Documents\C#\antecessor\antecessor\obj\Debug\antecessor.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\antecessor\antecessor\obj\Debug\antecessor.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\antecessor\antecessor\obj\Debug\antecessor.exe
+C:\Users\suellen.acosta2\Documents\C#\antecessor\antecessor\obj\Debug\antecessor.pdb

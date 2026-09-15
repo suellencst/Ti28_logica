@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suellen.acosta2\\Documents\\C#\\maior_e_menor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{290A4F1B-4D65-40CE-89F3-725E4C8E1D8B}|maior_e_menor\\maior_e_menor.csproj|c:\\users\\suellen.acosta2\\documents\\c#\\maior_e_menor\\maior_e_menor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290A4F1B-4D65-40CE-89F3-725E4C8E1D8B}|maior_e_menor\\maior_e_menor.csproj|solutionrelative:maior_e_menor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suellen.acosta2\\Documents\\C#\\maior_e_menor\\maior_e_menor\\Program.cs",
+              "RelativeDocumentMoniker": "maior_e_menor\\Program.cs",
+              "ToolTip": "C:\\Users\\suellen.acosta2\\Documents\\C#\\maior_e_menor\\maior_e_menor\\Program.cs",
+              "RelativeToolTip": "maior_e_menor\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:08:13.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
