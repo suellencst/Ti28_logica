@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\biblioteca\biblioteca\bin\Debug\biblioteca.exe.config
+C:\Users\suellen.acosta2\Documents\C#\biblioteca\biblioteca\bin\Debug\biblioteca.exe
+C:\Users\suellen.acosta2\Documents\C#\biblioteca\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\suellen.acosta2\Documents\C#\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\biblioteca\biblioteca\obj\Debug\biblioteca.exe
+C:\Users\suellen.acosta2\Documents\C#\biblioteca\biblioteca\obj\Debug\biblioteca.pdb
