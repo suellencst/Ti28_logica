@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\suellen.acosta2\Documents\C#\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\suellen.acosta2\Documents\C#\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\suellen.acosta2\Documents\C#\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\suellen.acosta2\Documents\C#\Hospital\Hospital\obj\Debug\Hospital.pdb

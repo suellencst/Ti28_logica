@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\salariominimo\salariominimo\bin\Debug\salariominimo.exe.config
+C:\Users\suellen.acosta2\Documents\C#\salariominimo\salariominimo\bin\Debug\salariominimo.exe
+C:\Users\suellen.acosta2\Documents\C#\salariominimo\salariominimo\bin\Debug\salariominimo.pdb
+C:\Users\suellen.acosta2\Documents\C#\salariominimo\salariominimo\obj\Debug\salariominimo.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\salariominimo\salariominimo\obj\Debug\salariominimo.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\salariominimo\salariominimo\obj\Debug\salariominimo.exe
+C:\Users\suellen.acosta2\Documents\C#\salariominimo\salariominimo\obj\Debug\salariominimo.pdb

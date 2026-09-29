@@ -139,23 +139,23 @@ namespace SistemaBiblioteca
 
 ");
 
-                Console.ResetColor();
+    Console.ResetColor();
 
-                Console.WriteLine("1 - Cadastrar Livro");
+    Console.WriteLine("1 - Cadastrar Livro");
 
-                Console.WriteLine("2 - Cadastrar Jogo");
+    Console.WriteLine("2 - Cadastrar Jogo");
 
-                Console.WriteLine("3 - Cadastrar Cliente");
+    Console.WriteLine("3 - Cadastrar Cliente");
 
-                Console.WriteLine("4 - Cadastrar Fornecedor");
+    Console.WriteLine("4 - Cadastrar Fornecedor");
 
-                Console.WriteLine("5 - Registrar Empréstimo");
+    Console.WriteLine("5 - Registrar Empréstimo");
 
-                Console.WriteLine("0 - Sair");
+    Console.WriteLine("0 - Sair");
 
-                Console.WriteLine();
+    Console.WriteLine();
 
-                Console.Write("Escolha uma opção: ");
+    Console.Write("Escolha uma opção: ");
 
                 opcao = int.Parse(Console.ReadLine());
 
@@ -442,7 +442,7 @@ namespace SistemaBiblioteca
 
             {
 
-                cliente.Ativo = false;
+                cliente.Ativo = false;  
 
             }
 
@@ -451,7 +451,7 @@ namespace SistemaBiblioteca
             Console.WriteLine("Nome: " + cliente.Nome);
 
             Console.WriteLine("CPF: " + cliente.CPF);
-
+             
             Console.WriteLine("Telefone: " + cliente.Telefone);
 
             Console.WriteLine("E-mail: " + cliente.Email);

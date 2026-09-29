@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\ano_bissexto\ano_bissexto\bin\Debug\ano_bissexto.exe.config
+C:\Users\suellen.acosta2\Documents\C#\ano_bissexto\ano_bissexto\bin\Debug\ano_bissexto.exe
+C:\Users\suellen.acosta2\Documents\C#\ano_bissexto\ano_bissexto\bin\Debug\ano_bissexto.pdb
+C:\Users\suellen.acosta2\Documents\C#\ano_bissexto\ano_bissexto\obj\Debug\ano_bissexto.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\ano_bissexto\ano_bissexto\obj\Debug\ano_bissexto.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\ano_bissexto\ano_bissexto\obj\Debug\ano_bissexto.exe
+C:\Users\suellen.acosta2\Documents\C#\ano_bissexto\ano_bissexto\obj\Debug\ano_bissexto.pdb

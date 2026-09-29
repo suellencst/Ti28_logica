@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suellen.acosta2\\Documents\\C#\\Fabrica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9524768D-E0F7-4C98-B70B-FA0E0218E586}|Fabrica\\Fabrica.csproj|c:\\users\\suellen.acosta2\\documents\\c#\\fabrica\\fabrica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9524768D-E0F7-4C98-B70B-FA0E0218E586}|Fabrica\\Fabrica.csproj|solutionrelative:fabrica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suellen.acosta2\\Documents\\C#\\Fabrica\\Fabrica\\Program.cs",
+              "RelativeDocumentMoniker": "Fabrica\\Program.cs",
+              "ToolTip": "C:\\Users\\suellen.acosta2\\Documents\\C#\\Fabrica\\Fabrica\\Program.cs",
+              "RelativeToolTip": "Fabrica\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:23:47.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

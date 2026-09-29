@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\valores_A_b\valores_A_b\bin\Debug\valores_A_b.exe.config
+C:\Users\suellen.acosta2\Documents\C#\valores_A_b\valores_A_b\bin\Debug\valores_A_b.exe
+C:\Users\suellen.acosta2\Documents\C#\valores_A_b\valores_A_b\bin\Debug\valores_A_b.pdb
+C:\Users\suellen.acosta2\Documents\C#\valores_A_b\valores_A_b\obj\Debug\valores_A_b.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\valores_A_b\valores_A_b\obj\Debug\valores_A_b.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\valores_A_b\valores_A_b\obj\Debug\valores_A_b.exe
+C:\Users\suellen.acosta2\Documents\C#\valores_A_b\valores_A_b\obj\Debug\valores_A_b.pdb

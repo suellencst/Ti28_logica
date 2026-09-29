@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\calculcar_desconto_loja\calculcar_desconto_loja\bin\Debug\calculcar_desconto_loja.exe.config
+C:\Users\suellen.acosta2\Documents\C#\calculcar_desconto_loja\calculcar_desconto_loja\bin\Debug\calculcar_desconto_loja.exe
+C:\Users\suellen.acosta2\Documents\C#\calculcar_desconto_loja\calculcar_desconto_loja\bin\Debug\calculcar_desconto_loja.pdb
+C:\Users\suellen.acosta2\Documents\C#\calculcar_desconto_loja\calculcar_desconto_loja\obj\Debug\calculcar_desconto_loja.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\calculcar_desconto_loja\calculcar_desconto_loja\obj\Debug\calculcar_desconto_loja.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\calculcar_desconto_loja\calculcar_desconto_loja\obj\Debug\calculcar_desconto_loja.exe
+C:\Users\suellen.acosta2\Documents\C#\calculcar_desconto_loja\calculcar_desconto_loja\obj\Debug\calculcar_desconto_loja.pdb
