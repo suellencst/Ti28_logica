@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\frutas\frutas\bin\Debug\frutas.exe.config
+C:\Users\suellen.acosta2\Documents\C#\frutas\frutas\bin\Debug\frutas.exe
+C:\Users\suellen.acosta2\Documents\C#\frutas\frutas\bin\Debug\frutas.pdb
+C:\Users\suellen.acosta2\Documents\C#\frutas\frutas\obj\Debug\frutas.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\frutas\frutas\obj\Debug\frutas.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\frutas\frutas\obj\Debug\frutas.exe
+C:\Users\suellen.acosta2\Documents\C#\frutas\frutas\obj\Debug\frutas.pdb

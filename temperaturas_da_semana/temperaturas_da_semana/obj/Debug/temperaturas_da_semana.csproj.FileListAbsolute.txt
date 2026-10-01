@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\temperaturas_da_semana\temperaturas_da_semana\bin\Debug\temperaturas_da_semana.exe.config
+C:\Users\suellen.acosta2\Documents\C#\temperaturas_da_semana\temperaturas_da_semana\bin\Debug\temperaturas_da_semana.exe
+C:\Users\suellen.acosta2\Documents\C#\temperaturas_da_semana\temperaturas_da_semana\bin\Debug\temperaturas_da_semana.pdb
+C:\Users\suellen.acosta2\Documents\C#\temperaturas_da_semana\temperaturas_da_semana\obj\Debug\temperaturas_da_semana.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\temperaturas_da_semana\temperaturas_da_semana\obj\Debug\temperaturas_da_semana.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\temperaturas_da_semana\temperaturas_da_semana\obj\Debug\temperaturas_da_semana.exe
+C:\Users\suellen.acosta2\Documents\C#\temperaturas_da_semana\temperaturas_da_semana\obj\Debug\temperaturas_da_semana.pdb

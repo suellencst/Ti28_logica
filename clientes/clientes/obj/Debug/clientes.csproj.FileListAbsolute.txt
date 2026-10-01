@@ -1,0 +1,7 @@
+C:\Users\suellen.acosta2\Documents\C#\clientes\clientes\obj\Debug\clientes.csproj.AssemblyReference.cache
+C:\Users\suellen.acosta2\Documents\C#\clientes\clientes\obj\Debug\clientes.csproj.CoreCompileInputs.cache
+C:\Users\suellen.acosta2\Documents\C#\clientes\clientes\bin\Debug\clientes.exe.config
+C:\Users\suellen.acosta2\Documents\C#\clientes\clientes\bin\Debug\clientes.exe
+C:\Users\suellen.acosta2\Documents\C#\clientes\clientes\bin\Debug\clientes.pdb
+C:\Users\suellen.acosta2\Documents\C#\clientes\clientes\obj\Debug\clientes.exe
+C:\Users\suellen.acosta2\Documents\C#\clientes\clientes\obj\Debug\clientes.pdb
